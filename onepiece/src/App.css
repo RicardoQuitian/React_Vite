@@ -1,0 +1,19 @@
+.main-container{
+  height: 15rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card{
+  border: solid 2px blue;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  padding: 2rem;
+  font-size: 3rem;
+}
